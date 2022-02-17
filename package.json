@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tonythetiger323/sass-portfolio-website/issues"
   },
-  "homepage": "https://github.com/tonythetiger323/sass-portfolio-website#readme"
+  "homepage": "https://github.com/tonythetiger323/sass-portfolio-website#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
