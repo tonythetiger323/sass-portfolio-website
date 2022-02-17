@@ -1,0 +1,24 @@
+{
+  "name": "sass-portfolio-website",
+  "version": "1.0.0",
+  "description": "A demo project practicing CSS with Sass while creating a portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonythetiger323/sass-portfolio-website.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "html"
+  ],
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonythetiger323/sass-portfolio-website/issues"
+  },
+  "homepage": "https://github.com/tonythetiger323/sass-portfolio-website#readme"
+}
